@@ -73,7 +73,7 @@
 > * item 3
 > * item 3.1
 
-### **também é possível criar parágrafos entre os items, como pode ser visto em:
+### **também é possível criar parágrafos entre os items, como pode ser visto em:**
 
 > - item 1
 > - item 1.2  
@@ -90,3 +90,17 @@
 >Inline: https://github.com
 >
 >título: Aqui está o [Link para o github](https://github.com/)
+
+# Imagens: 
+> Para colocar imagens, é preciso saber que existem dois tipos, imagens inline e imagens com título.
+
+## **exemplo prático**
+
+### Imagens inline "![Nome](link da imagem)" (sem as aspas)
+> 
+>  ![Todd Howard](https://www.bing.com/images/search?view=detailV2&ccid=UN%2bhrJaj&id=F582AD31F97D0D62368FA9BDB51EFBA801F529D2&thid=OIP.UN-hrJajrKcsChhxdJwDTwHaEK&mediaurl=https%3a%2f%2fwww.dexerto.com%2fcdn-image%2fwp-content%2fuploads%2f2022%2f11%2f30%2ftodd-howard-elder-scrolls-six-header.jpg%3fwidth%3d1200%26quality%3d75%26format%3dauto&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.50dfa1ac96a3aca72c0a1871749c034f%3frik%3d0in1Aaj7HrW9qQ%26pid%3dImgRaw%26r%3d0&exph=675&expw=1200&q=todd+howard&FORM=IRPRST&ck=62CCFC10B3961D7E9C1095672CAA23A3&selectedIndex=11&itb=0&ajaxhist=0&ajaxserp=0)
+
+### Imagens com título " ![Nome](link da imagem "Título da imagem") " (sem as aspas externas)
+> ![Todd Howard](https://www.bing.com/images/search?view=detailV2&ccid=UN%2bhrJaj&id=F582AD31F97D0D62368FA9BDB51EFBA801F529D2&thid=OIP.UN-hrJajrKcsChhxdJwDTwHaEK&mediaurl=https%3a%2f%2fwww.dexerto.com%2fcdn-image%2fwp-content%2fuploads%2f2022%2f11%2f30%2ftodd-howard-elder-scrolls-six-header.jpg%3fwidth%3d1200%26quality%3d75%26format%3dauto&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.50dfa1ac96a3aca72c0a1871749c034f%3frik%3d0in1Aaj7HrW9qQ%26pid%3dImgRaw%26r%3d0&exph=675&expw=1200&q=todd+howard&FORM=IRPRST&ck=62CCFC10B3961D7E9C1095672CAA23A3&selectedIndex=11&itb=0&ajaxhist=0&ajaxserp=0 "Todd howard)
+
+>### sem usar:
