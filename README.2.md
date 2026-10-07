@@ -89,5 +89,5 @@
 
 >Inline: https://github.com
 >
->Referência:[Link para o github]
-[1]: https://github.com/
+>Referência:[Link para o github] [1]
+>[1]: https://github.com/
