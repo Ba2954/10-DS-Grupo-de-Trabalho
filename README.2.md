@@ -91,3 +91,10 @@
 >
 >Referência:[Link para o github] [1]
 >[1]: https://github.com/
+^
+[Biblioteca Markdown 1 de younghz] [1]
+[Biblioteca Markdown 2][2]
+[1]: https:://github.com/younghz/Markdown "Markdown"
+[2]: https:://github.com/younghz/Markdown "Markdown"
+
+Efeito:
