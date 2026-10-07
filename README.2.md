@@ -83,12 +83,10 @@
 > + item 2.2
 
 # Links:
-> Links podem ser apresentados de duas formas, inline e de referência.
+> Links podem ser apresentados de duas formas, inline e de título.
 
 ## **exemplos práticos**
 
-
 >Inline: https://github.com
 >
->título:[Link para o github] (https://github.com/)
-
+>título: Aqui está o [Link para o github](https://github.com/)
