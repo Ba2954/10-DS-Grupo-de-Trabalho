@@ -33,14 +33,16 @@
 
 ### exemplo utilizando espaço entre linhas -Soft Break-
 
-Parágrafo um.
 
-Parágrafo dois.
+>Parágrafo um.
+>
+>Parágrafo dois.
 
 #### Exemplo sem utilizar:
-Parágrafo um.
-Parágrafo dois
+> Parágrafo um.
+> Parágrafo dois
 
 ### Exemplo utilizando espaço duas vezes após o final da frase -Hard Break-
 
 - 
+
